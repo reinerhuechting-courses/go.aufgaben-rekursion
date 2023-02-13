@@ -1,6 +1,6 @@
 package partition
 
-import "github.com/reinerhuechting-courses/go.aufgaben-rekursion/filter"
+import "github.com/reinerhuechting-courses/go.aufgaben-rekursion/listen/filter"
 
 // Liefert zwei Listen:
 // - Eine, die alle Elemente aus list enthält, die kleiner oder gleich key sind.
